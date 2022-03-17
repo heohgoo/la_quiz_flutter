@@ -1,16 +1,4 @@
-# quiz_app_test
+la_quiz_django
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+django와 flutter를 통한 풀스택 앱을 개발하기 위한 연습용으로 만든 퀴즈앱입니다.
+이 repository에는 flutter를 기반으로 한 프론트엔드쪽이 담겨 있습니다. django를 통해 백엔드를 구축하고 이를 flutter와 연동하는 식입니다.
